@@ -16,12 +16,12 @@
 
 // #region array
 
-const numbers = ['one', 'two', 'three', 'four']
+// const numbers = ['one', 'two', 'three', 'four']
 
-const [a, ...d] = numbers // [...rest]
+// const [a, ...d] = numbers // [...rest]
 
-console.log(a);
-console.log(d);
+// console.log(a);
+// console.log(d);
 
 // #endregion
 
